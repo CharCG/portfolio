@@ -1,4 +1,10 @@
+remote_theme: pages-themes/minimal@v0.2.0
 theme: jekyll-theme-minimal
+plugins: jekyll-remote-theme
 
-name: Charles
+title: Charles
 description: Undergraduate Computer Science Student at BINUS University | B’28
+
+show_downloads: false
+
+color-scheme: auto
