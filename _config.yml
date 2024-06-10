@@ -3,6 +3,4 @@ theme: jekyll-theme-minimal
 title: Charles
 description: Undergraduate Computer Science Student at BINUS University | B’28
 
-show_downloads: false
-
-color-scheme: auto
+show_downloads: true
