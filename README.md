@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/CharCG/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CharCG/portfolio/actions/workflows/pages/pages-build-deployment)
+
 # About Me ![](https://komarev.com/ghpvc/?username=CharCG)
 Currently, I'm an undergraduate (first-year) Computer Science student at [BINUS University](https://www.binus.ac.id/) which located in Jakarta, Indonesia.
 
